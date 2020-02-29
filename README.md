@@ -1,7 +1,5 @@
 This is my first attempt at creating an `npm` package
 
-![npm (scoped)](https://img.shields.io/npm/v/@jeretigerxu/tiny)
-(https://github.com/jerrytigerxu/tiny)
+![npm (scoped)](https://img.shields.io/npm/v/@jerrytigerxu/miniscule)
 
-![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@jeretigerxu/tiny)
-
+![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@jerrytigerxu/miniscule)
